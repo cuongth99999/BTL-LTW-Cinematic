@@ -1,0 +1,482 @@
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll.config
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.pdb
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csc.exe
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csc.exe.config
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csc.rsp
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csi.exe
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csi.exe.config
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csi.rsp
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.Managed.Core.targets
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.AppContext.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Collections.Immutable.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Console.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Globalization.Calendars.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Net.Http.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Net.Sockets.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.ValueTuple.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\vbc.exe
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\vbc.exe.config
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\vbc.rsp
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe.config
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.AssemblyReference.cache
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CoreCompileInputs.cache
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_.4290495E.Up2Date
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.dll
+D:\study\TH_LTW\TH_Buoi5\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.pdb
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll.config
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.pdb
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csc.exe
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csc.exe.config
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csc.rsp
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csi.exe
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csi.exe.config
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csi.rsp
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.AppContext.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Console.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Net.Http.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.ValueTuple.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\vbc.exe
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\vbc.exe.config
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\vbc.rsp
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CopyComplete
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.dll
+C:\Users\WINDOWS\Desktop\Cinestar\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.pdb
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.pdb
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CopyComplete
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.pdb
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.pdb
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CopyComplete
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.pdb
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll.config
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.pdb
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CopyComplete
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.pdb
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\csc.exe
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\csc.exe.config
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\csc.rsp
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\csi.exe
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\csi.exe.config
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\csi.rsp
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.AppContext.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Console.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Net.Http.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.ValueTuple.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\vbc.exe
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\vbc.exe.config
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\vbc.rsp
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe
+C:\Users\WINDOWS\Desktop\BTL_LTW_cinematic (1)\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe.config
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll.config
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.pdb
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csc.exe
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csc.exe.config
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csc.rsp
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csi.exe
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csi.exe.config
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csi.rsp
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Managed.Core.targets
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.AppContext.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Collections.Immutable.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Console.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Globalization.Calendars.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Net.Http.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Net.Sockets.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.ValueTuple.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\vbc.exe
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\vbc.exe.config
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\vbc.rsp
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe.config
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.AssemblyReference.cache
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CoreCompileInputs.cache
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_.4290495E.Up2Date
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.dll
+D:\study\LTW\BTL\code\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.pdb
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.pdb
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CopyComplete
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.dll
+C:\Users\Admin\Desktop\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.pdb
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll.config
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.pdb
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_.4290495E.Up2Date
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_cinematic (1) (1)\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.pdb
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll.config
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\BTL_LTW_cinematic.pdb
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\obj\Debug\BTL_LTW_.4290495E.Up2Date
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.dll
+C:\Users\ADMIN\Downloads\BTL_LTW_ultimateform_2024\BTL_LTW_cinematic\obj\Debug\BTL_LTW_cinematic.pdb
