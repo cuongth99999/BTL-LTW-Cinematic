@@ -6,9 +6,11 @@
     <html xmlns="http://www.w3.org/1999/xhtml">
 
     <head runat="server">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
         <link rel="stylesheet" href="../themify-icons/themify-icons.css">
         <link rel="stylesheet" href="../homePage/homePage.css"
+        <link rel="stylesheet" href="../../../fontawesome-free-6.5.2-web/fontawesome-free-6.5.2-web/css/all.min.css"
+
     </head>
 
     <body>
@@ -20,7 +22,7 @@
                 <header>
                     <div class="left-header">
 
-                        <a href="../homePage/homePage.aspx"><img src="/client/cinematic/assets/img/header-logo.png"
+                        <a href="../homePage/homePage.aspx"><img src="/client/cinematic/assets/img/logo2.png"
                                 alt="loggo" class="logo"></a>
 
                     </div>
@@ -36,12 +38,25 @@
                             <i class="ti-search icon-search" runat="server"></i>
                         </div>
                         <div class="login-container">
-                            <ul class="txt">
+                            <ul class="txt" runat="server">
                                 <asp:Button ID="Button2" runat="server" Text="Đăng nhập" CssClass="button1"
                                     OnClick="Button2_Click" />
 
-                                <asp:Button ID="Button3" runat="server" Text="Đăng Ký" CssClass="button1"
+                                <asp:Button ID="Button7" runat="server" Text="Đăng Ký" CssClass="button1"
                                     OnClick="Button3_Click" />
+
+                                 <!-- Icon và dropdown menu -->
+                                <div class="dropdown" id="dropdown" runat="server">
+                                    <button class="dropbtn">
+                                        <i class="fa-solid fa-user"></i>
+                                    </button>
+                                    <div class="dropdown-content" runat="server">
+                                        <asp:Button ID="Button5" runat="server" Text="Đổi mật khẩu" CssClass="button_login"
+                                            OnClick="Button5_Click" />   
+                                        <asp:Button ID="Button3" runat="server" Text="Đăng xuất" CssClass="button_login"
+                                            OnClick="Button3_Click" />                                
+                                    </div>
+                                </div>
 
                             </ul>
                         </div>
@@ -55,40 +70,40 @@
 
                     <div class="img-container">
                         <div class="img-content">
-                            <a href=""><img src="/client/cinematic/assets/img/ba-thim-bao-thu.jpg" alt="ba-thim-bao-thu"
+                            <a href=""><img src="/client/cinematic/assets/img/ke_trom_mat_trang_4.png" alt="ba-thim-bao-thu"
                                     class="img"></a>
                             <div class="img-footer">
-                                <a href="#phim">Bà Thím Báo Thù</a>
+                                <a href="#phim">Kẻ trộm mặt trăng 4</a>
                                 <button class="buy-ticket" id="1" onclick="datve(this.id)">
                                     <p>Đặt vé</p>
                                 </button>
                             </div>
                         </div>
                         <div class="img-content">
-                            <a href=""><img src="/client/cinematic/assets/img/biet-doi-san-ma.jpg" alt="biet-doi-san-ma"
+                            <a href=""><img src="/client/cinematic/assets/img/ac_linh_trong_xac_me.jpg" alt="biet-doi-san-ma"
                                     class="img"></a>
                             <div class="img-footer">
-                                <a href="/buy-ticket/buyticket.html">Biệt đội săn ma</a>
+                                <a href="/buy-ticket/buyticket.html">Ác linh trong xác mẹ</a>
                                 <button class="buy-ticket" id="2" onclick="datve(this.id)">
                                     <p>Đặt vé</p>
                                 </button>
                             </div>
                         </div>
                         <div class="img-content">
-                            <a href=""><img src="/client/cinematic/assets/img/gap-lai-chi-bau-tet.jpg"
+                            <a href=""><img src="/client/cinematic/assets/img/nha_chua_quy.jpg"
                                     alt="gap-lai-chi-bau-tet" class="img"></a>
                             <div class="img-footer">
-                                <a href="/client/cinematic/buy-ticket/buyticket.html">Gặp lại chị bầu</a>
+                                <a href="/client/cinematic/buy-ticket/buyticket.html">Nhà chứa quỷ</a>
                                 <button class="buy-ticket" id="3" onclick="datve(this.id)">
                                     <p>Đặt vé</p>
                                 </button>
                             </div>
                         </div>
                         <div class="img-content">
-                            <a href=""><img src="/client/cinematic/assets/img/godzilla-vs-kong-poster.jpg"
+                            <a href=""><img src="/client/cinematic/assets/img/mua_he_dep_nhat.jpg"
                                     alt="godzilla-vs-kong" class="img"></a>
                             <div class="img-footer">
-                                <a href="">Godzilla vs Kong</a>
+                                <a href="">Mùa hè đẹp nhất</a>
                                 <button class="buy-ticket" id="4" onclick="datve(this.id)">
                                     <p>Đặt vé</p>
                                 </button>
@@ -100,39 +115,39 @@
                     </center>
                     <div class="img-container">
                         <div class="img-content">
-                            <a href=""><img src="/client/cinematic/assets/img/inside-out-2.jpg" alt="inside-out-2"
+                            <a href=""><img src="/client/cinematic/assets/img/be_ma_cua_anh.jpg" alt="inside-out-2"
                                     class="img"></a>
                             <div class="img-footer">
-                                <a href="">Inside out 2</a>
+                                <a href="">Bé ma của anh</a>
                                 <button class="buy-ticket" id="5" onclick="datve(this.id)">
                                     <p>Đặt vé</p>
                                 </button>
                             </div>
                         </div>
                         <div class="img-content">
-                            <a href=""><img src="/client/cinematic/assets/img/meo-beo-sieu-quay.jpg"
+                            <a href=""><img src="/client/cinematic/assets/img/cuu_long_thanh_trai.jpg"
                                     alt="meo-beo-sieu-quay" class="img"></a>
                             <div class="img-footer">
-                                <a href="">Mèo béo siêu quậy</a>
+                                <a href="">Cửu long thành trại</a>
                                 <button class="buy-ticket" id="6" onclick="datve(this.id)">
                                     <p>Đặt vé</p>
                                 </button>
                             </div>
                         </div>
                         <div class="img-content">
-                            <a href=""><img src="/client/cinematic/assets/img/poster-mai.jpg" alt="mai" class="img"></a>
+                            <a href=""><img src="/client/cinematic/assets/img/gia_tai_cua_ngoai.jpg" alt="mai" class="img"></a>
                             <div class="img-footer">
-                                <a href="">Mai</a>
+                                <a href="">Gia tài của ngoại</a>
                                 <button class="buy-ticket" id="7" onclick="datve(this.id)">
                                     <p>Đặt vé</p>
                                 </button>
                             </div>
                         </div>
                         <div class="img-content">
-                            <a href=""><img src="/client/cinematic/assets/img/thanh-guom-diet-quy.jpg"
+                            <a href=""><img src="/client/cinematic/assets/img/tham_hoa_tren_cau.jpg"
                                     alt="thanh-guom-diet-quy" class="img"></a>
                             <div class="img-footer">
-                                <a href="">Thanh Gươm Diệt Quỷ</a>
+                                <a href="">Thảm họa trên cầu</a>
                                 <button class="buy-ticket" id="8" onclick="datve(this.id)">
                                     <p>Đặt vé</p>
                                 </button>
@@ -146,11 +161,11 @@
                     <center>
                         <div class="slider-container">
                             <div class="slider">
-                                <div class="slide"><img src="/client/cinematic/assets/img/silder/Mung_1_1.jpg"
+                                <div class="slide"><img src="/client/cinematic/assets/img/poster3.jpg"
                                         alt="Image 1"></div>
-                                <div class="slide"><img src="/client/cinematic/assets/img/silder/1215wx683h_Chi_Bau.jpg"
+                                <div class="slide"><img src="/client/cinematic/assets/img/poster2.jpg"
                                         alt="Image 2"></div>
-                                <div class="slide"><img src="/client/cinematic/assets/img/silder/godzilla-x-kong.jpg"
+                                <div class="slide"><img src="/client/cinematic/assets/img/poster1.jpg"
                                         alt="Image 3"></div>
                             </div>
                             <button class="prev">&#10094;</button>
@@ -161,7 +176,7 @@
                 </center>
                 <footer>
                     <center>
-                        <h2>CINEMATIC</h2>
+                        <h2>BHD CINEMA</h2>
                     </center>
                     <div class="list-icon">
                         <div class="icon-container">

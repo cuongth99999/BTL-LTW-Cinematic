@@ -18,10 +18,12 @@ namespace BTL_LTW_cinematic.client.cinematic.homePage
             User user = (User)Session["user"];
             foreach (User u in app)
             {
-                if(user.userName == u.userName && user.passWord == u.passWord)
+                if (user.userName == u.userName && user.passWord == u.passWord)
                 {
-                    Button2.Text = "xin chào "+user.userName;
-                    Button3.Text = "Đăng xuất";
+                    Button2.Text = "xin chào " + user.userName;
+                    // Button3.Text = "Đăng xuất";
+                    dropdown.Style["display"] = "block";
+                    Button7.Visible = false;
                 }
             }
             if (user.userName == "admin")
@@ -31,31 +33,34 @@ namespace BTL_LTW_cinematic.client.cinematic.homePage
                 datVeNgay_themPhim.Text = "thêm phim";
             }
             int idphim = (int)Session["idphim"];
-            idphim =int.Parse(idmovie.Value);
+            idphim = int.Parse(idmovie.Value);
             Session["idphim"] = idphim;
-            if (idphim !=0)
+            if (idphim != 0)
             {
                 Response.Redirect("../buyticket/buyticket.aspx");
             }
         }
 
-        protected void Button3_Click(object sender, EventArgs e) // button : dky
+        protected void Button3_Click(object sender, EventArgs e) // button : logout
         {
-            if(Button3.Text=="Đăng Ký")
-            {
+           
+            
                 Response.Redirect("../register/register.aspx");
-            }
-            else
+            
+        }
+
+        protected void Button5_Click(object sender, EventArgs e) // button : changePassword
+        {
+            if (Button5.Text == "Đổi mật khẩu")
             {
-                Response.Redirect("../login/login.aspx");
+                Response.Redirect("../changePassword/changePassword.aspx");
 
             }
         }
-
         protected void Button2_Click(object sender, EventArgs e) // button : dn
         {
-            
-            if(Button2.Text=="Đăng nhập")
+
+            if (Button2.Text == "Đăng nhập")
             {
                 Response.Redirect("../login/login.aspx");
             }
@@ -67,14 +72,11 @@ namespace BTL_LTW_cinematic.client.cinematic.homePage
 
         protected void Button1_Click(object sender, EventArgs e)//phim sap chieu
         {
-            
-            
             Response.Redirect("../upComingFilm/upComingFilm.aspx");
         }
 
         protected void datVeNgay_themPhim_Click(object sender, EventArgs e)
         {
-
             Response.Redirect("../addFilm/addFilm.aspx");
         }
 

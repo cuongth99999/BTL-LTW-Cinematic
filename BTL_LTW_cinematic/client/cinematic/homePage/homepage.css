@@ -24,7 +24,8 @@ header
 .left-header
 {
   margin: 4px;
-  width: 10%;
+  width: 5%;
+  margin-left : 20px;
 }
 
 a
@@ -61,6 +62,16 @@ a
     background-color: #10172b;
     font-size: 16px;
     margin-left: 20px;
+    cursor: pointer;
+}
+
+.button_login {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    background-color: #f9f9f9;
     cursor: pointer;
 }
 
@@ -319,10 +330,55 @@ footer h2 {
 .phone-number {
   margin-left: 4px; /* Khoảng cách bên trái giữa icon và số điện thoại */
 }
+
+
+.dropdown {
+    margin-left: 8px;
+    position: relative;
+    display: none;
+}
+
+.dropbtn {
+    background-color: slateblue;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.dropdown-content {
+    width: max-content;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background:black;
+}
+.fa-solid{
+    color:white;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #f1f1f1;
+}
+
 /* Khi màn hình nhỏ hơn 768px */
 @media only screen and (max-width: 768px) {
-  /* Phần Header */
-header {
+    /* Phần Header */
+    header {
   display: flex;
   flex-direction: column; /* Chuyển sang layout dạng cột */
 }
