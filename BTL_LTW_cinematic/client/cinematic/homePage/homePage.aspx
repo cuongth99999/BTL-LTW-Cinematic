@@ -30,6 +30,12 @@
                         <asp:Button ID="datVeNgay_themPhim" CssClass="btn buy-ticket" runat="server" Text=""
                             Visible="false" OnClick="datVeNgay_themPhim_Click" />
                     </div>
+
+                    <div class="center-header">
+                        <asp:Button ID="inBaoCao" CssClass="btn buy-ticket" runat="server" Text=""
+
+                            Visible="false" OnClick="inBaoCao_Click" />
+                    </div>
                     <div class="right-header">
 
                         <div class="search">

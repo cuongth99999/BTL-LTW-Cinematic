@@ -35,6 +35,16 @@ namespace BTL_LTW_cinematic.client.cinematic.homePage
             int idphim = (int)Session["idphim"];
             idphim = int.Parse(idmovie.Value);
             Session["idphim"] = idphim;
+            if (user.userName == "admin")
+            {
+                Button1.Text = "sửa phim";
+                datVeNgay_themPhim.Visible = true;
+                datVeNgay_themPhim.Text = "thêm phim";
+
+                inBaoCao.Visible = true;
+                inBaoCao.Text = "In Báo Cáo";
+            }
+
             if (idphim != 0)
             {
                 Response.Redirect("../buyticket/buyticket.aspx");
@@ -84,6 +94,11 @@ namespace BTL_LTW_cinematic.client.cinematic.homePage
         {
             Session["search"] = search_txt.Value.ToString();
             Response.Redirect("../search/search.aspx");
+        }
+
+        protected void inBaoCao_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("../report/reportpage.aspx");
         }
     }
 }
