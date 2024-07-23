@@ -93,6 +93,8 @@
     <Content Include="client\cinematic\buyticket\buyticket.css" />
     <Content Include="client\cinematic\buyticket\buyticket.html" />
     <Content Include="client\cinematic\buyticket\buyticket.js" />
+    <Content Include="client\cinematic\changePassword\changePassword.aspx" />
+    <Content Include="client\cinematic\changePassword\changePassword.css" />
     <Content Include="client\cinematic\homePage\homePage.aspx" />
     <Content Include="client\cinematic\homePage\homepage.css" />
     <Content Include="client\cinematic\homePage\homepage.js" />
@@ -499,6 +501,13 @@
     </Compile>
     <Compile Include="client\cinematic\buyticket\buyticket.aspx.designer.cs">
       <DependentUpon>buyticket.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="client\cinematic\changePassword\changePassword.aspx.cs">
+      <DependentUpon>changePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="client\cinematic\changePassword\changePassword.aspx.designer.cs">
+      <DependentUpon>changePassword.aspx</DependentUpon>
     </Compile>
     <Compile Include="client\cinematic\homePage\homePage.aspx.cs">
       <DependentUpon>homePage.aspx</DependentUpon>
