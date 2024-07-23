@@ -98,7 +98,6 @@ namespace BTL_LTW_cinematic.client.cinematic.homePage
 
         protected void inBaoCao_Click(object sender, EventArgs e)
         {
-            Response.Redirect("../report/reportpage.aspx");
         }
     }
 }
