@@ -42,7 +42,7 @@
 <div class="container">
 <header>
     <div class="left-header">
-      <a href="../homePage/homePage.aspx"><img src="/client/cinematic/assets/img/header-logo.png" alt="loggo" class="logo"></a>          
+      <a href="../homePage/homePage.aspx"><img src="/client/cinematic/assets/img/logo2.png" alt="loggo" class="logo"></a>          
     </div>
     <div class="center-header">
       <button type="button" class="btn buy-ticket" onclick="test1()"><p>Đặt vé ngay</p></button>
@@ -102,7 +102,7 @@
     <script src="/client/cinematic/receipt/receipt.js"></script>
 </body>
     <footer>
-    <center><h2>CINEMATIC</h2></center>
+    <center><h2>BHD CINEMA</h2></center>
     <div class="list-icon">
       <div class="icon-container">
         <div class="icon">
