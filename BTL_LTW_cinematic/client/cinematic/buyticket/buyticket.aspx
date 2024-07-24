@@ -33,6 +33,81 @@
             margin-left:20px;
             color:white;
         }
+
+/*Chọn đồ ăn*/
+.food-selection-container {
+    width: 100%;
+   
+}
+
+.food-items {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Adjust the gap between items as needed */
+}
+
+.food-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 150px; /* Adjust the width as needed */
+}
+
+    .food-item img {
+        width: 100px; /* Adjust the width of the images as needed */
+        height: 100px;
+    }
+
+.quantity-container {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Adjust the gap between quantity buttons and number as needed */
+}
+
+.quantity-btn {
+    width: 30px; /* Adjust the width of the buttons as needed */
+    height: 30px; /* Adjust the height of the buttons as needed */
+}
+
+.price {
+    margin-top: 10px; /* Adjust the margin as needed */
+}
+
+.quantity-btn {
+    width: 30px; /* Adjust the width of the buttons as needed */
+    height: 30px; /* Adjust the height of the buttons as needed */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #ddd; /* Default background color */
+    cursor: pointer;
+}
+
+.quantity-btn:hover {
+    background-color: #ccc; /* Change color on hover */
+}
+
+.quantity-btn:active {
+    background-color: #bbb; /* Change color on active */
+}
+
+.quantity-btn:nth-of-type(2) {
+    background-color: #4CAF50; /* Green background for the increase button */
+    color: white;
+}
+
+.quantity-btn:nth-of-type(2):hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+.quantity-btn:nth-of-type(2):active {
+    background-color: #388e3c; /* Even darker green on active */
+}
+
+
+
     </style>
 </head>
 <body>
@@ -251,6 +326,7 @@
                 </ul>
             </div>
         </div>
+
         <div class="type-seat">
             <div class="tseat-container"><img src="../assets/img/svgexport-17.svg" alt="seat">
                 <p>ghế thường</p>
@@ -263,7 +339,46 @@
             </div>
         </div>
     </div>
-   
+            
+  <div class="food-selection-container">
+    <center>
+        <h3>Chọn đồ ăn</h3>
+    </center>
+      <div></div>
+    <div class="food-items">
+        <div class="food-item">
+            <img src="../assets/img/OL1.png" alt="food" class="food" id="food1">
+            <p>Popcorn</p>
+            <div class="quantity-container">
+                <button type="button" class="quantity-btn" onclick="updateFoodQuantity('food1', -1)">-</button>
+                <span id="food1-quantity" class="quantity">0</span>
+                <button type="button" class="quantity-btn" onclick="updateFoodQuantity('food1', 1)">+</button>
+            </div>
+            <span id="food1-price" class="price">0</span> VND
+        </div>
+        <div class="food-item">
+            <img src="../assets/img/OL2.png" alt="food" class="food" id="food2">
+            <p>Cola</p>
+            <div class="quantity-container">
+                <button type="button" class="quantity-btn" onclick="updateFoodQuantity('food2', -1)">-</button>
+                <span id="food2-quantity" class="quantity">0</span>
+                <button type="button" class="quantity-btn" onclick="updateFoodQuantity('food2', 1)">+</button>
+            </div>
+            <span id="food2-price" class="price">0</span> VND
+        </div>
+        <div class="food-item">
+            <img src="../assets/img/OL3.png" alt="food" class="food" id="food3">
+            <p>Nachos</p>
+            <div class="quantity-container">
+                <button type="button" class="quantity-btn" onclick="updateFoodQuantity('food3', -1)">-</button>
+                <span id="food3-quantity" class="quantity">0</span>
+                <button type="button" class="quantity-btn" onclick="updateFoodQuantity('food3', 1)">+</button>
+            </div>
+            <span id="food3-price" class="price">0</span> VND
+        </div>
+    </div>
+</div>
+
     
     <div class="cash-container">
         <div class="money-total-container">
@@ -398,28 +513,28 @@
         let ghe = "";
         let total = 0;
         function setprice(selectid) {
-                const seat = document.getElementById(selectid)
-                const isSelected = seat.classList.contains("selected");
+            const seat = document.getElementById(selectid)
+            const isSelected = seat.classList.contains("selected");
 
 
-                if (isSelected) {
-                    totalPrice -= 100000;
-                    seat.classList.remove("selected");
-                    ghe = ghe.replace(selectid + ",", "");
-                    total = total - 1;
-                } else {
+            if (isSelected) {
+                totalPrice -= 100000;
+                seat.classList.remove("selected");
+                ghe = ghe.replace(selectid + ",", "");
+                total = total - 1;
+            } else {
 
-                    totalPrice += 100000;
-                    seat.classList.add("selected");
-                    ghe += selectid + ",";
-                    total = total + 1;
-            }            
+                totalPrice += 100000;
+                seat.classList.add("selected");
+                ghe += selectid + ",";
+                total = total + 1;
+            }
             let strtotal = "";
             strtotal = total.toString();
             let strtotalmoney = "";
             strtotalmoney = totalPrice.toString();
             strtotalmoney = strtotalmoney.replace(/\B(?=(\d{3})+(?!\d))/g, ".");
-            document.getElementById("money_total").innerHTML = strtotalmoney; 
+            document.getElementById("money_total").innerHTML = strtotalmoney;
             document.getElementById("totalmoney").value = strtotalmoney;
             //console.log(document.getElementById("totalmoney").value);
             document.getElementById("ghe").value = ghe;
@@ -427,6 +542,45 @@
             document.getElementById("totaltck").value = strtotal;
             console.log(document.getElementById("totaltck").value);
         }
+
+        let foodPrices = {
+            'food1': 50000,
+            'food2': 75000,
+            'food3': 100000
+        };
+
+        function updateFoodQuantity(foodId, change) {
+            const quantitySpan = document.getElementById(`${foodId}-quantity`);
+            const priceSpan = document.getElementById(`${foodId}-price`);
+            let quantity = parseInt(quantitySpan.textContent);
+
+            if (quantity + change >= 0) {
+                quantity += change;
+                quantitySpan.textContent = quantity;
+                priceSpan.textContent = quantity * foodPrices[foodId];
+                updateTotalPrice();
+            }
+        }
+
+        function updateTotalPrice() {
+            let totalFoodPrice = 0;
+
+            for (const foodId in foodPrices) {
+                const quantity = parseInt(document.getElementById(`${foodId}-quantity`).textContent);
+                totalFoodPrice += quantity * foodPrices[foodId];
+            }
+
+            const formattedTotalPrice = formatNumber(totalPrice + totalFoodPrice);
+            document.getElementById("money_total").innerHTML = formattedTotalPrice;
+            document.getElementById("totalmoney").value = formattedTotalPrice;
+        }
+
+        function formatNumber(number) {
+            return number.toLocaleString('vi-VN', { style: 'currency', currency: 'VND' });
+        }
+
+
+
     </script>
 </body>
 </html>

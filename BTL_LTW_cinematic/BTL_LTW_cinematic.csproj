@@ -80,6 +80,9 @@
     <Content Include="client\cinematic\assets\img\img-screen.png" />
     <Content Include="client\cinematic\assets\img\inside-out-2.jpg" />
     <Content Include="client\cinematic\assets\img\meo-beo-sieu-quay.jpg" />
+    <Content Include="client\cinematic\assets\img\OL1.png" />
+    <Content Include="client\cinematic\assets\img\OL2.png" />
+    <Content Include="client\cinematic\assets\img\OL3.png" />
     <Content Include="client\cinematic\assets\img\poster-mai.jpg" />
     <Content Include="client\cinematic\assets\img\silder\1215wx683h_Chi_Bau.jpg" />
     <Content Include="client\cinematic\assets\img\silder\godzilla-x-kong.jpg" />
