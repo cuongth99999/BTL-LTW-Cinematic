@@ -32,7 +32,10 @@ header
 .left-header
 {
   margin: 4px;
-  width: 10%;
+  width: 5%;
+}
+img{
+    width:100%;
 }
 
 a

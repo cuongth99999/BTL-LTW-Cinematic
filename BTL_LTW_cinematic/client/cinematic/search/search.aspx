@@ -17,7 +17,7 @@
 <header>
   <div class="left-header">
     
-    <a href="../homePage/homePage.aspx"><img src="/client/cinematic/assets/img/header-logo.png" alt="loggo" class="logo"></a>
+    <a href="../homePage/homePage.aspx"><img src="/client/cinematic/assets/img/logo2.png" alt="loggo" class="logo"></a>
     
   </div>
   <div class="center-header">
@@ -65,7 +65,7 @@
    
   
   <footer>
-    <center><h2>CINEMATIC</h2></center>
+    <center><h2>BHD CINEMA</h2></center>
     <div class="list-icon">
       <div class="icon-container">
         <div class="icon">

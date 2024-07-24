@@ -29,12 +29,14 @@ header
   border-bottom: 0.5px solid gray;
   
 }
-.left-header
-{
-  margin: 4px;
-  width: 10%;
+.left-header {
+    margin: 4px;
+    width: 5%;
 }
 
+img {
+    width: 100%;
+}
 a
 {
   text-decoration: none;

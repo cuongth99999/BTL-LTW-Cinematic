@@ -24,12 +24,14 @@ header
   justify-content: space-between;
   align-items: center;
 }
-.left-header
-{
-  margin: 4px;
-  width: 10%;
+.left-header {
+    margin: 4px;
+    width: 5%;
 }
 
+img {
+    width: 100%;
+}
 a
 {
   text-decoration: none;
