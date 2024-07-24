@@ -23,7 +23,7 @@
 }
         footer
         {
-            margin-top: 340px;
+            margin-top: 90px;
         }
     </style>
 </head>
