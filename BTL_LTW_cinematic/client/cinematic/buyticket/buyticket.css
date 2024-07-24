@@ -328,8 +328,12 @@ a
 .tseat-container
 {
   display: flex;
-  width: 30%;
+  width: 10%;
   justify-content: center;
+  flex-direction : column;
+  align-items : center;
+  margin:10px;
+
 }
 .type-seat
 {
