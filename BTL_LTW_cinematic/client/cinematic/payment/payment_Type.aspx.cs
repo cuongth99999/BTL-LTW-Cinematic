@@ -1,11 +1,6 @@
 ﻿using BTL_LTW_cinematic.Class;
 using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace BTL_LTW_cinematic.client.cinematic.payment
 {
@@ -23,7 +18,7 @@ namespace BTL_LTW_cinematic.client.cinematic.payment
                     Button3.Text = "Đăng xuất";
                 }
             }
-            bttn_submit.Enabled=false;
+            bttn_submit.Enabled = false;
             Movie_Tickests mt = (Movie_Tickests)Session["movietck"];
             Movie_Name.InnerHtml = mt.bMovieName.ToString();
             bshowtime.InnerText = mt.bShowTime.ToString() + " " + mt.bDayRelease.ToString();

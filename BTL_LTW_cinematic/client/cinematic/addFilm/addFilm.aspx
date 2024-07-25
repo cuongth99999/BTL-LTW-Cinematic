@@ -15,6 +15,9 @@
         footer{
             margin-top:100px;
         }
+        .logo{height:80px;
+      width:80px;
+}
     </style>
     <title>Thêm phim</title>
 </head>
@@ -22,7 +25,7 @@
     <div class="container">
         <header>
             <div class="left-header">
-                <a href="../homePage/homePage.aspx"><img src="/client/cinematic/assets/img/header-logo.png" alt="loggo" class="logo"></a>
+                <a href="../homePage/homePage.aspx"><img src="/client/cinematic/assets/img/logo2.png" alt="loggo" class="logo"></a>
 
             </div>
             <div class="center-header">
@@ -136,7 +139,7 @@
                  
         </div>
         <footer>
-        <center><h2>CINEMATIC</h2></center>
+        <center><h2>BHD CINEMA</h2></center>
         <div class="list-icon">
           <div class="icon-container">
             <div class="icon">
@@ -186,7 +189,7 @@
           <div class="text-contact">
             <div class="email-contact">
               <i class="ic-contact ti-email"></i>
-              <p>nhom11@gmail.com</p>
+              <p>SE.G20@gmail.com</p>
             </div>
             <div class="phone-contact">
               <i class="ti-mobile"></i>

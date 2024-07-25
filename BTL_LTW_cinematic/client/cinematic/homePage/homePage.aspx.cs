@@ -1,12 +1,6 @@
 ﻿using BTL_LTW_cinematic.Class;
-using BTL_LTW_cinematic.client.cinematic.buyticket;
 using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace BTL_LTW_cinematic.client.cinematic.homePage
 {
@@ -53,10 +47,10 @@ namespace BTL_LTW_cinematic.client.cinematic.homePage
 
         protected void Button3_Click(object sender, EventArgs e) // button : logout
         {
-           
-            
-                Response.Redirect("../register/register.aspx");
-            
+
+
+            Response.Redirect("../login/login.aspx");
+
         }
 
         protected void Button5_Click(object sender, EventArgs e) // button : changePassword
@@ -67,6 +61,7 @@ namespace BTL_LTW_cinematic.client.cinematic.homePage
 
             }
         }
+
         protected void Button2_Click(object sender, EventArgs e) // button : dn
         {
 

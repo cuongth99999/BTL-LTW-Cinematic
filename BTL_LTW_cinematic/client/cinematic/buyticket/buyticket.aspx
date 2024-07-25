@@ -105,7 +105,9 @@
 .quantity-btn:nth-of-type(2):active {
     background-color: #388e3c; /* Even darker green on active */
 }
-
+.logo{height:80px;
+      width:80px;
+}
 
 
     </style>
@@ -119,8 +121,8 @@
 
         </div>
         <div class="center-header">
-            <button class="btn buy-ticket" ><p>Đặt vé ngay</p>
-            </button>
+          
+         
         </div>
         <div class="right-header">
 
@@ -444,7 +446,7 @@
                 <div class="text-contact">
                     <div class="email-contact">
                         <i class="ic-contact ti-email"></i>
-                        <p>nhom11@gmail.com</p>
+                        <p>SE.G20@gmail.com</p>
                     </div>
                     <div class="phone-contact">
                         <i class="ti-mobile"></i>
@@ -457,6 +459,45 @@
     </div>
     </form>
     <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Disable the payment button by default
+            const paymentButton = document.getElementById('cash_item');
+            paymentButton.disabled = true;
+            paymentButton.classList.add('disabled');
+
+            var seats = document.querySelectorAll('.seat');
+
+            seats.forEach(function (seat) {
+                seat.addEventListener('click', function () {
+                    var seatCode = this.getAttribute('data-seat');
+                    toggleSeatColor(this, seatCode);
+                    updatePaymentButtonState();
+                });
+            });
+
+            function toggleSeatColor(seatElement, seatCode) {
+                var currentSrc = seatElement.getAttribute('src');
+                var yellowSeatSrc = '../assets/img/svgexport-18.svg';
+                var whiteSeatSrc = '../assets/img/svgexport-17.svg';
+                var newSrc = currentSrc === whiteSeatSrc ? yellowSeatSrc : whiteSeatSrc;
+                seatElement.setAttribute('src', newSrc);
+            }
+
+   
+
+            function updatePaymentButtonState() {
+                const moneyTotal = document.getElementById('money_total').innerHTML;
+                if (moneyTotal && moneyTotal !== "0") {
+                    paymentButton.disabled = false;
+                    paymentButton.classList.remove('disabled');
+                } else {
+                    paymentButton.disabled = true;
+                    paymentButton.classList.add('disabled');
+                }
+            }
+        });
+
+        /*ngắt  */
         let totalPrice = 0;
         document.addEventListener("DOMContentLoaded", function () {
             var seats = document.querySelectorAll('.seat');
@@ -468,46 +509,11 @@
                 });
             });
 
-            function toggleSeatColor(seatElement, seatCode) {
-                var currentSrc = seatElement.getAttribute('src');
-                var yellowSeatSrc = '../assets/img/svgexport-18.svg';
-                var whiteSeatSrc = '../assets/img/svgexport-17.svg';
-
-                var newSrc = currentSrc === whiteSeatSrc ? yellowSeatSrc : whiteSeatSrc;
-                seatElement.setAttribute('src', newSrc);
-            }
+           
         });
 
-        /*document.addEventListener("DOMContentLoaded", function () {
-            const seats = document.querySelectorAll(".seat");
-            const cashItem = document.getElementById("cash_item");
-            let totalPrice = 0;
-
-            function formatNumber(number) {
-                return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
-            }
-
-            seats.forEach(seat => {
-                seat.addEventListener("click", function () {
-
-                    const isSelected = seat.classList.contains("selected");
-
-
-                    if (isSelected) {
-                        totalPrice -= 100000;
-                        seat.classList.remove("selected");
-                    } else {
-
-                        totalPrice += 100000;
-                        seat.classList.add("selected");
-                    }
-
-                    document.getElementById("money_total").innerHTML = formatNumber(totalPrice).toString();
-                    document.getElementById("total").innerText = document.getElementById("money_total").innerText;
-                });
-            });
-        });*/
-        function formatNumber(number) {
+       
+     function formatNumber(number) {
             return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
         }
         let ghe = "";
@@ -541,6 +547,7 @@
             console.log(document.getElementById("ghe").value);
             document.getElementById("totaltck").value = strtotal;
             console.log(document.getElementById("totaltck").value);
+            updatePaymentButtonState();
         }
 
         let foodPrices = {
@@ -578,8 +585,6 @@
         function formatNumber(number) {
             return number.toLocaleString('vi-VN', { style: 'currency', currency: 'VND' });
         }
-
-
 
     </script>
 </body>

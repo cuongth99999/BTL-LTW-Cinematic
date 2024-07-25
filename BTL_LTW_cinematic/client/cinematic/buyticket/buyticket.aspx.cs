@@ -1,11 +1,6 @@
 ﻿using BTL_LTW_cinematic.Class;
 using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace BTL_LTW_cinematic.client.cinematic.buyticket
 {
@@ -28,9 +23,9 @@ namespace BTL_LTW_cinematic.client.cinematic.buyticket
                     Button3.Text = "Đăng xuất";
                 }
             }
-            foreach (Movies m in mov) 
+            foreach (Movies m in mov)
             {
-                if(i == idm)
+                if (i == idm)
                 {
                     mName.InnerHtml = m.movieName;
                     mPicture.Src = m.moviePicture;
@@ -46,7 +41,7 @@ namespace BTL_LTW_cinematic.client.cinematic.buyticket
                 i++;
             }
         }
-       
+
         protected void cash_item_Click1(object sender, EventArgs e)
         {
             User user = (User)Session["user"];

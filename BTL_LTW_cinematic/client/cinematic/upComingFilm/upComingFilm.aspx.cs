@@ -1,12 +1,6 @@
 ﻿using BTL_LTW_cinematic.Class;
 using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using System.Xml.Linq;
 
 namespace BTL_LTW_cinematic.client.cinematic.upComingFilm
 {
@@ -42,7 +36,7 @@ namespace BTL_LTW_cinematic.client.cinematic.upComingFilm
             int idphim = (int)Session["idphim"];
             idphim = int.Parse(idmovie.Value);
             Session["idphim"] = idphim;
-            if(IsPostBack)
+            if (IsPostBack)
             {
                 if (idphim != 0 && user.userName != "admin")
                 {
@@ -76,7 +70,7 @@ namespace BTL_LTW_cinematic.client.cinematic.upComingFilm
             }
             else
             {
-                Response.Redirect("../login/login.aspx");        
+                Response.Redirect("../login/login.aspx");
             }
         }
     }

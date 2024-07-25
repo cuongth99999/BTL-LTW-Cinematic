@@ -57,7 +57,7 @@ namespace BTL_LTW_cinematic.client.cinematic.changePassword
             lblMessage.Text = "Thay đổi mật khẩu thành công !";
             lblMessage.Visible = true;
 
-      
+
 
         }
     }

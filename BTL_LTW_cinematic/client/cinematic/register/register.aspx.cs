@@ -8,7 +8,7 @@ namespace BTL_LTW_cinematic.client.cinematic.register
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            
+
         }
 
         protected void Button1_Click(object sender, EventArgs e)
@@ -23,7 +23,7 @@ namespace BTL_LTW_cinematic.client.cinematic.register
             string uname = Request.Form["register-userName"];
             string pssword = Request.Form["register-passWord"];
             string pssword2 = Request.Form["register-passWord2"];
-            
+
             foreach (User user in app)
             {
                 if (user.userName == uname)
@@ -57,7 +57,7 @@ namespace BTL_LTW_cinematic.client.cinematic.register
                 ClientScript.RegisterStartupScript(this.GetType(), "showDuplicateUsernameMessage", "document.getElementById('lblDuplicateUsername');", true);
             }
 
-            if (checkUser && checkPass) 
+            if (checkUser && checkPass)
             {
                 User u = new User(fname, sdt, birth, uname, pssword);
                 app.Add(u);

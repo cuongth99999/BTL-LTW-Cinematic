@@ -63,6 +63,11 @@
                 <div class="login-label">
                     <input type="password" id="login-passWord" name="login-passWord" placeholder="Nhập mật khẩu" class="input" required>
                 </div>
+                 <center>
+                        <asp:Label ID="lblMessage3" runat="server" ForeColor="Red" Visible="false"></asp:Label>                            
+                        <!-- Thêm label dưới đây để hiển thị thông báo -->
+                        <label id="lblDuplicatePassword" style="color: red; display: none;"></label>
+                    </center>
                 <center><asp:Button ID="Button1" runat="server" Text="ĐĂNG NHẬP" OnClick="Button1_Click" /></center>
                 
         </div>
@@ -120,7 +125,7 @@
           <div class="text-contact">
             <div class="email-contact">
               <i class="ic-contact ti-email"></i>
-              <p>nhom11@gmail.com</p>
+              <p>SE.G20@gmail.com</p>
             </div>
             <div class="phone-contact">
               <i class="ti-mobile"></i>

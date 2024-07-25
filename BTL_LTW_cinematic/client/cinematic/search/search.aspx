@@ -21,7 +21,7 @@
     
   </div>
   <div class="center-header">
-    <button type="button" class="btn buy-ticket" onclick="test()"><p>Trang Chủ</p></button>
+    <button type="button" class="btn buy-ticket"  onclick="homePage.aspx" a href="../homePage/homePage.aspx"><p>Trang Chủ</p></button>
   </div>
   <div class="right-header">
 
@@ -52,12 +52,15 @@
  </div>
     </div>
           <center>
-                  <div class="slider-container">
-  <div class="slider">
-    <div class="slide"><img src="/client/cinematic/assets/img/silder/Mung_1_1.jpg" alt="Image 1"></div>
-    <div class="slide"><img src="/client/cinematic/assets/img/silder/1215wx683h_Chi_Bau.jpg" alt="Image 2"></div>
-    <div class="slide"><img src="/client/cinematic/assets/img/silder/godzilla-x-kong.jpg" alt="Image 3"></div>
-  </div>
+                                       <div class="slider-container">
+                            <div class="slider">
+                                <div class="slide"><img src="/client/cinematic/assets/img/poster3.jpg"
+                                        alt="Image 1"></div>
+                                <div class="slide"><img src="/client/cinematic/assets/img/poster2.jpg"
+                                        alt="Image 2"></div>
+                                <div class="slide"><img src="/client/cinematic/assets/img/poster1.jpg"
+                                        alt="Image 3"></div>
+                            </div>
   <button class="prev" onclick="prevSlide()">&#10094;</button>
   <button class="next" onclick="nextSlide()">&#10095;</button>
 </div>
@@ -115,7 +118,7 @@
       <div class="text-contact">
         <div class="email-contact">
           <i class="ic-contact ti-email"></i>
-          <p>nhom11@gmail.com</p>
+          <p>SE.G20@gmail.com</p>
         </div>
         <div class="phone-contact">
           <i class="ti-mobile"></i>

@@ -151,7 +151,7 @@
                         </div>
                         <div class="img-content">
                             <a href=""><img src="/client/cinematic/assets/img/tham_hoa_tren_cau.jpg"
-                                    alt="thanh-guom-diet-quy" class="img"></a>
+                                    alt="" class="img"></a>
                             <div class="img-footer">
                                 <a href="">Thảm họa trên cầu</a>
                                 <button class="buy-ticket" id="8" onclick="datve(this.id)">
@@ -235,7 +235,7 @@
                         <div class="text-contact">
                             <div class="email-contact">
                                 <i class="ic-contact ti-email"></i>
-                                <p>nhom11@gmail.com</p>
+                                <p>SE.G20@gmail.com</p>
                             </div>
                             <div class="phone-contact">
                                 <i class="ti-mobile"></i>

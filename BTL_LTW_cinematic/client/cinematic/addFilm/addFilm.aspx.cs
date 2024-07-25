@@ -1,14 +1,8 @@
 ﻿using BTL_LTW_cinematic.Class;
 using System;
 using System.Collections;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Runtime.Remoting.Contexts;
 using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using System.Xml.Linq;
 
 namespace BTL_LTW_cinematic.client.cinematic.addFilm
 {
@@ -56,7 +50,7 @@ namespace BTL_LTW_cinematic.client.cinematic.addFilm
 
             if (IsPostBack)
             {
-               
+
                 String mName = Request.Form["addFilm-movieName"];
                 HttpPostedFile mPicture = Request.Files["addFilm-moviePicture"];
                 String mDuration = Request.Form["addFilm-movieDuration"].ToString();
@@ -67,7 +61,7 @@ namespace BTL_LTW_cinematic.client.cinematic.addFilm
                 String mContent = Request.Form["addFilm-movieContent"];
                 String mRoom = Request.Form["addFilm-movieRoom"];
                 String mShowTime = Request.Form["selectShowtime"];
-          
+
                 String nfile = mPicture.FileName;
                 String extension = Path.GetExtension(nfile);
                 string filePath = Server.MapPath("/client/cinematic/assets/img/" + nfile);
@@ -79,7 +73,7 @@ namespace BTL_LTW_cinematic.client.cinematic.addFilm
                     int i = 1;
                     while (File.Exists(filePath))
                     {
-                        
+
                         newFileName = $"{newFileName}-{i}{extension}";
                         filePath = Server.MapPath("/client/cinematic/assets/img/" + newFileName);
                         i++;
@@ -145,7 +139,7 @@ namespace BTL_LTW_cinematic.client.cinematic.addFilm
             {
                 if (j == idphim)
                 {
-                    delete= j-1;
+                    delete = j - 1;
                 }
                 j++;
             }

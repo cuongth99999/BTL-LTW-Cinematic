@@ -8,15 +8,15 @@ namespace BTL_LTW_cinematic.client.cinematic.login
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-           
-            
+
+
         }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
             ArrayList app = (ArrayList)Application["users"];
 
-             User u = new User();
+            User u = new User();
             string user;
             string password;
             user = Request.Form["login-userName"];
@@ -34,7 +34,13 @@ namespace BTL_LTW_cinematic.client.cinematic.login
                     Response.Redirect("../homePage/homePage.aspx");
                     return;
                 }
-                
+                else {
+                    
+                    lblMessage3.Text = "Tài khoản hoặc mật khẩu không đúng!";
+                    lblMessage3.Visible = true;
+                    ClientScript.RegisterStartupScript(this.GetType(), "showDuplicateUsernameMessage", "document.getElementById('lblDuplicateUsername');", true);
+                }
+
             }
 
         }

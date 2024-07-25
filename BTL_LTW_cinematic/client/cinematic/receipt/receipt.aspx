@@ -152,7 +152,7 @@
       <div class="text-contact">
         <div class="email-contact">
           <i class="ic-contact ti-email"></i>
-          <p>nhom11@gmail.com</p>
+          <p>SE.G20@gmail.com</p>
         </div>
         <div class="phone-contact">
           <i class="ti-mobile"></i>

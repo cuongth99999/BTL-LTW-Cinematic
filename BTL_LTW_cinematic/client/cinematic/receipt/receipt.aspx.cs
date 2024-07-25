@@ -1,11 +1,6 @@
 ﻿using BTL_LTW_cinematic.Class;
 using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace BTL_LTW_cinematic.client.cinematic.receipt
 {
@@ -36,10 +31,10 @@ namespace BTL_LTW_cinematic.client.cinematic.receipt
                 tbTicketID.Value += mvt.bTicketID + ";";
                 tbMoney.Value += mvt.bMoney + ";";
             }
-            if(Button2.Text != "Đăng Nhập" )
+            if (Button2.Text != "Đăng Nhập")
             {
                 Button2.Enabled = false;
-            }    
+            }
         }
 
         protected void Button3_Click(object sender, EventArgs e)
