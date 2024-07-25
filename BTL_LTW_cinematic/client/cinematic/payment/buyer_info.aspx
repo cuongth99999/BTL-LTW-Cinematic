@@ -92,8 +92,8 @@
                     <div>
                         <h2 id="Movie_Name" class="Movie_Name" runat="server"></h2>
                         <div class="Movie-info-group1">                                
-                            <p class="Movie-info">Cinestar Quốc Thanh</p>
-                            <p>271 Nguyễn trãi, Phường Nguyễn Cư Trinh, Quận 1, Thành Phố Hồ Chí Minh</p>                                
+                            <p class="Movie-info">BHD Start  PHẠM NGỌC THẠCH </p>
+                            <p> Tầng 8, Vincom Center Phạm Ngọc Thạch, 02 Phạm Ngọc Thạch, P.Trung Tự, Quận Đống Đa, Hà Nội</p>                                
                             <p class="Movie-info-title">Thời gian</p>
                             <p class="Movie-info" id="bshowtime" runat="server"></p>
                         </div>
